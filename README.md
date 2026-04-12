@@ -1,4 +1,5 @@
 # 🌐 Universal SRE Command Center
+**[🔴 Try the Live Dashboard Here!](https://your-app-url.streamlit.app)**
 
 An ML-driven web application that allows Site Reliability Engineering (SRE) teams to upload server logs and automatically detect bottlenecks and forecast capacity. 
 
